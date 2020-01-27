@@ -1,0 +1,21 @@
+{
+    "name": "Scramble the Duck’s Official Website",
+    "short_name": "Scramble&#39;s Website",
+    "start_url": "https://scrambletheduck.org",
+    "display": "browser",
+    "background_color": "#e6e8ff",
+    "theme__color" : "#0011D1",
+    "description": "Scramble is completely accurate weather-predicting duck in Eastford, Connecticut",
+    "icons": [{
+        "src": "/assets/images/favicon-android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png" }, {
+        "src": "/assets/images/favicon-android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png" }, {
+        "src": "/assets/images/site/favicon-maskable_icon.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "maskable" }
+    ]
+}
