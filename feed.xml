@@ -4,7 +4,7 @@
 	<subtitle>Scramble is completely accurate weather-predicting duck in Eastford, Connecticut.</subtitle>
 	<link href="https://scrambletheduck.org/feed.xml" rel="self"/>
 	<link href="https://scrambletheduck.org"/>
-	<updated>2019-03-22T00:00:00-04:00</updated>
+	<updated>2020-01-29T00:00:00-05:00</updated>
 	<id>https://scrambletheduck.org/</id>
 	<author>
 		<name>The Duck Handlers</name>
@@ -180,6 +180,16 @@ The answer is very plain.&lt;br&gt;
 &lt;p&gt;When Scramble says six weeks, it means &lt;em&gt;at least&lt;/em&gt; six more weeks of winter.&lt;/p&gt;
 &lt;lite-youtube videoid=&quot;eP8ocAX6o1o&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/eP8ocAX6o1o/hqdefault.jpg&#39;);&quot; class=&quot;undefined&quot; title=&quot;Scramble Proved Correct Again&quot;&gt;
     &lt;/lite-youtube&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Scramble to be Featured on WILI Radio</title>
+		<link href="https://scrambletheduck.org/news/2020/01/29/scramble-to-be-featured-on-wili-radio/"/>
+		<updated>2020-01-29T00:00:00-05:00</updated>
+		<id>https://scrambletheduck.org/news/2020/01/29/scramble-to-be-featured-on-wili-radio/</id>
+		<content type="html">&lt;p&gt;Scramble the Duck will be featured on WILI AM Radio on January 29 from 7:20 a.m. to 8:30 a.m. with Wayne Norman. Scramble and his handlers, (Micah, Isaac, and Benjamin Torcellini) will discuss how Scramble predicts the weather, what happens at Duck Day, and how it all came to be. If you want to learn more about Scramble, this is a great opportunity to listen to Scramble and his handlers discussing Duck Day as you drive to work.&lt;/p&gt;
+&lt;p&gt;You can read the announcement on WILI’s website at &lt;a href=&quot;https://www.wili.com/events/248791/&quot;&gt;www.wili.com/events/248791/&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
