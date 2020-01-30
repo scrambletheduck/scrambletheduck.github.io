@@ -97,17 +97,7 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/WILI/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/NBC/</loc>
+    <loc>https://scrambletheduck.org/tags/parade/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -117,17 +107,12 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/parade/</loc>
+    <loc>https://scrambletheduck.org/tags/website/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/prediction/</loc>
+    <loc>https://scrambletheduck.org/tags/NBC/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -137,12 +122,32 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
   <url>
     <loc>https://scrambletheduck.org/tags/TV/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/prediction/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -157,12 +162,7 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/website/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
+    <loc>https://scrambletheduck.org/tags/WILI/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -224,5 +224,10 @@
   <url>
     <loc>https://scrambletheduck.org/livestream/</loc>
     <lastmod>2020-01-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/news/2020/01/30/scramble-featured-on-wili-radio/</loc>
+    <lastmod>2020-01-30</lastmod>
   </url>
 </urlset>
