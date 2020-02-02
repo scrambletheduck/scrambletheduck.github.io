@@ -5,7 +5,7 @@
     "display": "browser",
     "background_color": "#e6e8ff",
     "theme__color" : "#0011D1",
-    "description": "Scramble is completely accurate weather-predicting duck in Eastford, Connecticut",
+    "description": "Scramble is a completely accurate weather-predicting duck in Eastford, Connecticut",
     "icons": [{
         "src": "/assets/images/site/favicon-android-chrome-192x192.png",
         "sizes": "192x192",
