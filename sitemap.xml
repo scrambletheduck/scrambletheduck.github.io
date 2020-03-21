@@ -92,22 +92,12 @@
   </url>
   
   <url>
+    <loc>https://scrambletheduck.org/tags/NBC/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scrambletheduck.org/tags/wili/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/website/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/prediction/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -117,17 +107,22 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/NBC/</loc>
+    <loc>https://scrambletheduck.org/tags/prediction/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/parade/</loc>
+    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
   <url>
     <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/parade/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -153,6 +148,11 @@
   
   <url>
     <loc>https://scrambletheduck.org/tags/radio/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/website/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -244,5 +244,10 @@
   <url>
     <loc>https://scrambletheduck.org/news/2020/02/02/scramble-forecasts-six-more-weeks-of-winter/</loc>
     <lastmod>2020-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/news/2020/03/19/scramble-proved-correct-again/</loc>
+    <lastmod>2020-03-19</lastmod>
   </url>
 </urlset>

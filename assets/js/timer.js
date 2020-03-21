@@ -43,5 +43,5 @@ function countdown(endDate) {
 }
 
 (function () { 
-  countdown('02/02/2020 07:30:00 AM'); 
+  countdown('02/02/2021 07:30:00 AM'); 
 }());
