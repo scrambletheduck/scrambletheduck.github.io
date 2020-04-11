@@ -127,11 +127,6 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/speeches/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/tags/WFSB/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
@@ -147,17 +142,22 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/website/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/tags/WILI/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
   <url>
     <loc>https://scrambletheduck.org/tags/radio/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/website/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/speeches/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
