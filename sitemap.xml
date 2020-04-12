@@ -92,32 +92,17 @@
   </url>
   
   <url>
+    <loc>https://scrambletheduck.org/tags/spring/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scrambletheduck.org/tags/NBC/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/parade/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/prediction/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
+    <loc>https://scrambletheduck.org/tags/Easter/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -127,7 +112,37 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
+    <loc>https://scrambletheduck.org/tags/parade/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/prediction/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/pages/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/color/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -137,7 +152,12 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
+    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
+    <lastmod>2019-08-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -158,11 +178,6 @@
   
   <url>
     <loc>https://scrambletheduck.org/tags/speeches/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/pages/</loc>
     <lastmod>2019-08-17</lastmod>
   </url>
   
@@ -249,5 +264,10 @@
   <url>
     <loc>https://scrambletheduck.org/news/2020/03/19/scramble-proved-correct-again/</loc>
     <lastmod>2020-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/news/2020/04/12/hunt-for-eggs-with-scramble/</loc>
+    <lastmod>2020-04-12</lastmod>
   </url>
 </urlset>

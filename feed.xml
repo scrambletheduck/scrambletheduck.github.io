@@ -4,7 +4,7 @@
 	<subtitle>Scramble is completely accurate weather-predicting duck in Eastford, Connecticut.</subtitle>
 	<link href="https://scrambletheduck.org/feed.xml" rel="self"/>
 	<link href="https://scrambletheduck.org"/>
-	<updated>2020-03-19T00:00:00-04:00</updated>
+	<updated>2020-04-12T00:00:00-04:00</updated>
 	<id>https://scrambletheduck.org/</id>
 	<author>
 		<name>The Duck Handlers</name>
@@ -231,5 +231,16 @@ The answer is very plain.&lt;br&gt;
 &lt;/blockquote&gt;
 &lt;lite-youtube videoid=&quot;IEhaoP3xzvI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/IEhaoP3xzvI/hqdefault.jpg&#39;);&quot; class=&quot;undefined&quot; title=&quot;Scramble is correct again&quot;&gt;
     &lt;/lite-youtube&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Hunt For Eggs with Scramble</title>
+		<link href="https://scrambletheduck.org/news/2020/04/12/hunt-for-eggs-with-scramble/"/>
+		<updated>2020-04-12T00:00:00-04:00</updated>
+		<id>https://scrambletheduck.org/news/2020/04/12/hunt-for-eggs-with-scramble/</id>
+		<content type="html">&lt;p&gt;Scramble understands that many people this year were not able to go on Easter Egg Hunts. Instead, you can go on a virtual Easter Egg Hunt with Scramble! Download the coloring page and find all the Easter Eggs. Have a blessed and happy Easter!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scrambletheduck.org/assets/files/spring-coloring-page.pdf&quot;&gt;Click here to download a fun Easter Egg Hunt coloring page with Scramble!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scrambletheduck.org/assets/files/spring-coloring-page.pdf&quot;&gt;&lt;img src=&quot;https://scrambletheduck.org/assets/images/spring-coloring-page-web.svg&quot; alt=&quot;Preview image of coloring page&quot; loading=&quot;lazy&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
 	</entry>
 </feed>
