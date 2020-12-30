@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://scrambletheduck.org/2020-30-12-covid-19-update/</loc>
+    <lastmod>Invalid DateTime</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scrambletheduck.org/news/2018/01/02/scramble-gets-a-new-website/</loc>
     <lastmod>2018-01-02</lastmod>
   </url>
@@ -87,157 +92,7 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/wili/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Easter/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/spring/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/NBC/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/parade/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/prediction/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/radio/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/color/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/speeches/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/pages/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/TV/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/website/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/WILI/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/about/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/accuracy/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/faq/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/news/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/sitemap/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/videos/</loc>
-    <lastmod>2019-08-17</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/jokes/</loc>
-    <lastmod>2020-01-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/speeches/</loc>
-    <lastmod>2020-01-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/site.webmanifest</loc>
-    <lastmod>2020-01-18</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/news/2020/01/29/scramble-to-be-featured-on-wili-radio/</loc>
-    <lastmod>2020-01-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/livestream/</loc>
     <lastmod>2020-01-29</lastmod>
   </url>
   
@@ -269,5 +124,195 @@
   <url>
     <loc>https://scrambletheduck.org/news/2020/04/12/hunt-for-eggs-with-scramble/</loc>
     <lastmod>2020-04-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/site.webmanifest</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Coronavirus/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Covid-19/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Update/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/pages/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/speeches/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/website/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/radio/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/WILI/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/TV/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/prediction/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/NBC/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/wili/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/parade/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/COVID-19/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/news/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/update/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Easter/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/color/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/spring/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/about/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/accuracy/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/faq/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/jokes/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/livestream/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/news/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/sitemap/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/speeches/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/videos/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/news/2020/12/29/covid-19-updates/</loc>
+    <lastmod>2020-12-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/press/</loc>
+    <lastmod>2020-12-30</lastmod>
   </url>
 </urlset>

@@ -9,7 +9,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rosario:400,400i,700,700i&display=swap&subset=latin-ext" media="print" onload="this.media='all'">
-        <noscript>
     <noscript>
          <style>
             @import url('https://fonts.googleapis.com/css?family=Rosario:400,400i,700,700i&display=swap&subset=latin-ext');
@@ -41,7 +40,7 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <script src="/assets/js/modernizr.js"></script>
-<script id="loadCustomElementsPolyfill" src="/assets/js/polyfills/webcomponentsjs/webcomponents-loader.js"></script>
+<script id="loadCustomElementsPolyfill"></script>
 <script id="loadDetailsPolyfill"></script>
 <script>
     if (Modernizr.details == false) {
@@ -60,7 +59,9 @@
         loadLiteYtEmbed();
     }
     else {
-        WebComponents.waitFor = loadLiteYtEmbed();
+        var loadCustomElementsPolyfill = document.getElementById("loadCustomElementsPolyfill");
+        loadCustomElementsPolyfill.setAttribute("src", "/assets/js/polyfills/webcomponentsjs/bundles/webcomponents-ce.js");
+        loadLiteYtEmbed();
     }
 </script>
 <script src="/assets/js/timer.js" defer></script>
@@ -68,8 +69,10 @@
 
 
 <script>
-//https://developers.google.com/analytics/devguides/collection/analyticsjs/user-opt-out
-// window['ga-disable-UA-131485046-1'] = true;
+if (window.location.host == "localhost:8080") {
+    //https://developers.google.com/analytics/devguides/collection/analyticsjs/user-opt-out
+    window['ga-disable-UA-131485046-1'] = true;
+}
 
 //https://developers.google.com/analytics/devguides/collection/analyticsjs/
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -137,32 +140,57 @@
         </nav>
     </header>
   <div class="landing__jumbotron" id="content">
-    <h1 class="landing__jumbotron__header"><span class="landing__jumbotron__header__name">Scramble the Duck</span><br>An Accurate Alternative to the Groundhog</h1>
-    <div class="landing__jumbotron__arrow">
-      <a href="#main-content">
-        <span class="-sr">Skip to content</span>
-        <img src="/assets/images/site/arrow-down.svg" alt="">
-      </a>
+    <div class="container">
+      <div class="col -w6">
+        <h1 class="landing__jumbotron__header"><span class="landing__jumbotron__header__name">Scramble the Duck</span><br>An Accurate Alternative to the Groundhog</h1>
+        <div class="landing__jumbotron__arrow">
+          <a href="#main-content">
+            <span class="-sr">Skip to content</span>
+            <img src="/assets/images/site/arrow-down.svg" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="col -w6">
+        
+          <img src="/assets/images/scramble-blob.png" alt="Hi, I'm Scramble" loading="lazy" srcset="/assets/images/scramble-blob.png 800w, /assets/images/scramble-blob-w200.png 200w, /assets/images/scramble-blob-w300.png 300w, /assets/images/scramble-blob-w600.png 600w, /assets/images/scramble-blob-w800.png 800w, /assets/images/scramble-blob-w1000.png 1000w" sizes="(min-width: 36em) 50vw, 100vw" class=" ">
+        
+      </div>
     </div>
   </div>
 </div>
-<div class="landing__container">
-  <main class="landing__content flex-container" id="main-content">
-    <figure class="col -w4">
-      <img src="/assets/images/img_4077-w600.jpeg" alt="Duck Day">
-    </figure>
-    <div class="col -w6">
-      <p>Welcome to Scramble the Duck's website! Scramble predicts the weather every <a href="/about#when-where">February 2, at 7:30 A.M. at the Ivy Glenn Memorial in Eastford, CT</a> in a free event. Scramble predicts the weather somewhat like a groundhog, looking for a shadow to determine whether there will be an early spring or six more weeks of winter. However, he is 100% <a href="/accuracy">accurate</a>, compared to Punxsutawney Phil's <a href="/accuracy#statistics">39%</a>. On February 2, he predicted six more weeks of winter.</p> 
-      <p class="notice"><strong><a href="/news/2020/03/19/scramble-proved-correct-again/">Scramble is correct again!</a></strong></p>
-        
-    </div>
-    <figure class="col -w2">
-      <img src="/assets/images/scramble-redcarpet-w200.jpeg" alt="Scramble waddling down the red carpet">
-    </figure>
-  </main>
+<main class="landing__container">
 
-  <div class="flex-container content-container">
-    <aside class="landing__countdown card col -wauto print-hide" >    
+  <div class="container">
+
+    <section class="col -w6 card">
+      <h2 class="notice">Welcome to Scramble the Duck's website!</h2>
+      <p>Scramble predicts the weather every <a href="/about#when-where">February 2, at 7:30 A.M. at the Ivy Glenn Memorial in Eastford, CT</a> in a free event. Scramble predicts the weather somewhat like a groundhog, looking for a shadow to determine whether there will be an early spring or six more weeks of winter.</p>
+    </section>
+
+    <figure class="embed-responsive embed-responsive-16by9 landing__video col -w6">
+      <lite-youtube videoid="eP8ocAX6o1o" style="background-image: url('https://i.ytimg.com/vi/eP8ocAX6o1o/hqdefault.jpg');" class="undefined" title="Scramble proved correct again">
+    <a class="lty-playbtn" href="https://www.youtube.com/watch?v=eP8ocAX6o1o" target="_blank" rel="noopener" aria-label="Play Video (opens in new Tab)" title="Play Video (opens in new tab)"></a>
+    </lite-youtube>
+    </figure>
+
+    <div class="card col -w6" style="text-align: center">
+      <!--Put content in space below, then delete this-->
+      <a href="/news/2020/12/29/covid-19-updates/"><p>The next Duck Day will be online-only due to COVID-19.</p> 
+      <p class="notice"><strong>Scramble will be livestreaming!</strong></p></a>
+    </div>
+
+    <a class="card col -w6" href="/accuracy/" style="text-align: center">
+      <p>Punxsutawney Phil is correct 39% of the time.</p>
+      <p class="notice"><strong>Scramble the duck is 100% Accurate.</strong></p>
+      <p><u class="button">Learn more here.</u></p>
+    </a>
+
+
+    
+        <img src="/assets/images/img_4077.jpeg" alt="Duck Day" loading="lazy" srcset="/assets/images/img_4077.jpeg 800w, /assets/images/img_4077-w200.jpeg 200w, /assets/images/img_4077-w300.jpeg 300w, /assets/images/img_4077-w600.jpeg 600w, /assets/images/img_4077-w800.jpeg 800w, /assets/images/img_4077-w1000.jpeg 1000w" sizes="(min-width: 36em) 50vw, 100vw" class="col -w6 card">
+    
+
+    <aside class="landing__countdown card col -w4 -n8 print-hide" >    
     <h2>Countdown to Duck Day</h2>
     
     <p class="timer" id="timer">
@@ -172,15 +200,15 @@
         <span id="seconds">_</span> seconds left until Duck Day!
     
     <br>Where will you be?</p></aside>
-    <figure class="embed-responsive embed-responsive-16by9 landing__video col -wauto">
-      <lite-youtube videoid="eP8ocAX6o1o" style="background-image: url('https://i.ytimg.com/vi/eP8ocAX6o1o/hqdefault.jpg');" class="undefined" title="Scramble proved correct again">
-    </lite-youtube>
-    </figure>
+
+    <img src="/assets/images/scramble-redcarpet.jpeg" alt="Scramble waddling down the red carpet" loading="lazy" srcset="/assets/images/scramble-redcarpet.jpeg 800w, /assets/images/scramble-redcarpet-w200.jpeg 200w, /assets/images/scramble-redcarpet-w300.jpeg 300w, /assets/images/scramble-redcarpet-w600.jpeg 600w, /assets/images/scramble-redcarpet-w800.jpeg 800w, /assets/images/scramble-redcarpet-w1000.jpeg 1000w" sizes="(min-width: 36em) 16.66vw, 33.33vw" class="card col -w2 -n4">
+
   </div>
-</div>
+</main>
 <footer id="footer" class="footer">
-  <div class="container">
-    <div class="postlist__item__share">
+  <div class="share container">
+    <p class="share__container container col -w6 -n12">
+        <span class="share__text">Share:</span>
         <a rel="noopener" title="Share on Facebook" href="http://www.facebook.com/sharer.php?u=https://scrambletheduck.org/" target="_blank" class="share__link -fb">
             <span class="share__button -fb">
                 <span class="-sr">Share on Facebook</span>
@@ -196,7 +224,29 @@
                 <span class="-sr">Print</span>
             </span>
         </button>
-    </div>
+    </p>
+    <p class="share__container container col -w6 -n12">
+        <span class="share__text">Follow:</span>
+        <a rel="noopener" title="Follow on Facebook" href="http://www.facebook.com/scrambletheduck" target="_blank" class="share__link -fb">
+            <span class="share__button -fb">
+                <span class="-sr">Follow on Facebook</span>
+            </span>
+        </a>
+        <a rel="noopener" title="Subscribe on YouTube" href="https://www.youtube.com/channel/UCasS9b9ZaC6qq_StZsw-geg?sub_confirmation=1" target="_blank" class="share__link -yt">
+            <span class="share__button -yt">
+                <span class="-sr">Subscribe on YouTube</span>
+            </span>
+        </a>
+        <a rel="noopener" title="Subscribe to RSS" href="/feed.xml" target="_blank" class="share__link -rss">
+            <span class="share__button -rss">
+                <span class="-sr">Subscribe to RSS</span>
+            </span>
+        </a>
+    </p>
+    <nav><ul class="footer__nav">
+        <li><a href="/press/">Press Resources</a></li>
+        <li><a href="/sitemap/">Sitemap</a></li>
+    </ul></nav>
 </div>
 </footer>
 
