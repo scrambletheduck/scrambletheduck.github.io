@@ -167,6 +167,11 @@
   </url>
   
   <url>
+    <loc>https://scrambletheduck.org/tags/website/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scrambletheduck.org/tags/radio/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
@@ -192,22 +197,17 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/website/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/tags/accuracy/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
   <url>
     <loc>https://scrambletheduck.org/tags/prediction/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -314,5 +314,10 @@
   <url>
     <loc>https://scrambletheduck.org/press/</loc>
     <lastmod>2020-12-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/covid19/</loc>
+    <lastmod>2021-01-02</lastmod>
   </url>
 </urlset>
