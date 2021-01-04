@@ -4,11 +4,22 @@
 	<subtitle>Scramble is completely accurate weather-predicting duck in Eastford, Connecticut.</subtitle>
 	<link href="https://scrambletheduck.org/feed.xml" rel="self"/>
 	<link href="https://scrambletheduck.org"/>
-	<updated>2020-12-29T00:00:00-05:00</updated>
+	<updated>2021-01-04T00:00:00-05:00</updated>
 	<id>https://scrambletheduck.org/</id>
 	<author>
 		<name>The Duck Handlers</name>
 	</author>
+	
+	<entry>
+		<title>Scramble to be on WILI AM</title>
+		<link href="https://scrambletheduck.org/news/2021/01/04/scramble-to-be-on-wili-am/"/>
+		<updated>2021-01-04T00:00:00-05:00</updated>
+		<id>https://scrambletheduck.org/news/2021/01/04/scramble-to-be-on-wili-am/</id>
+		<content type="html">&lt;p&gt;Scramble and his handlers will be featured on &lt;a href=&quot;https://wili.com/&quot;&gt;WILI AM Radio&lt;/a&gt; on January 28, 7:40-8 a.m., hosted by Wayne Norman. Scramble and his handlers will discuss how he predicts, what Duck Day will be like, and more. This is a great opportunity to learn about Scramble in his own words on the drive to work.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.mixcloud.com/wili1400/13030-scramble-the-duck/&quot;&gt;You can listen to last year&#39;s episode here.&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
 	
 	<entry>
 		<title>COVID-19 Updates</title>
@@ -64,18 +75,6 @@
     &lt;a class=&quot;lty-playbtn&quot; href=&quot;https://www.youtube.com/watch?v=6J-NVc04GOg&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; aria-label=&quot;Play Video (opens in new Tab)&quot; title=&quot;Play Video (opens in new tab)&quot;&gt;&lt;/a&gt;
     &lt;/lite-youtube&gt;
 &lt;p&gt;&lt;em&gt;Photo credit: Julia Torcellini&lt;/em&gt;&lt;/p&gt;
-</content>
-	</entry>
-	
-	
-	<entry>
-		<title>Scramble Featured on WILI Radio</title>
-		<link href="https://scrambletheduck.org/news/2020/01/30/scramble-featured-on-wili-radio/"/>
-		<updated>2020-01-30T00:00:00-05:00</updated>
-		<id>https://scrambletheduck.org/news/2020/01/30/scramble-featured-on-wili-radio/</id>
-		<content type="html">&lt;p&gt;Today, Scramble the Duck was featured on the &lt;a href=&quot;https://www.wili.com/&quot;&gt;WILI&lt;/a&gt; (1400 AM and 95.3 FM) Morning Show with Wayne Norman.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.mixcloud.com/wili1400/13030-scramble-the-duck/&quot;&gt;You can listen to the recording of the interview here.&lt;/a&gt;&lt;/p&gt;
-&lt;!--endexcerpt--&gt;
 </content>
 	</entry>
 	
