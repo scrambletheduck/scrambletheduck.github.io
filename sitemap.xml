@@ -137,27 +137,12 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/radio/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/WILI/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/tags/website/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -167,7 +152,17 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
+    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/radio/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/WILI/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -182,12 +177,22 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/NBC/</loc>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
   <url>
     <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/parade/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/NBC/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -208,11 +213,6 @@
   
   <url>
     <loc>https://scrambletheduck.org/tags/spring/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/parade/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -297,7 +297,7 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/livestream/</loc>
+    <loc>https://scrambletheduck.org/livestream-embed/</loc>
     <lastmod>2021-01-04</lastmod>
   </url>
   
@@ -309,5 +309,10 @@
   <url>
     <loc>https://scrambletheduck.org/site.webmanifest</loc>
     <lastmod>2021-01-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/news/2021/01/28/2021-1-28-scramble-featured-on-wili-am/</loc>
+    <lastmod>2021-01-28</lastmod>
   </url>
 </urlset>
