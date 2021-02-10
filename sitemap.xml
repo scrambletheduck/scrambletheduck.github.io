@@ -167,11 +167,6 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
@@ -182,12 +177,12 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/parade/</loc>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/wili/</loc>
+    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -197,7 +192,12 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
+    <loc>https://scrambletheduck.org/tags/parade/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/wili/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -292,27 +292,7 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/covid19/</loc>
-    <lastmod>2021-01-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/livestream-embed/</loc>
-    <lastmod>2021-01-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/press/</loc>
-    <lastmod>2021-01-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/site.webmanifest</loc>
-    <lastmod>2021-01-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/news/2021/01/28/2021-1-28-scramble-featured-on-wili-am/</loc>
+    <loc>https://scrambletheduck.org/news/2021/01/28/scramble-featured-on-wili-am/</loc>
     <lastmod>2021-01-28</lastmod>
   </url>
   
@@ -328,6 +308,26 @@
   
   <url>
     <loc>https://scrambletheduck.org/news/2021/02/02/scramble-forecasts-more-winter/</loc>
+    <lastmod>2021-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/covid19/</loc>
+    <lastmod>2021-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/livestream-embed/</loc>
+    <lastmod>2021-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/press/</loc>
+    <lastmod>2021-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/site.webmanifest</loc>
     <lastmod>2021-02-02</lastmod>
   </url>
 </urlset>
