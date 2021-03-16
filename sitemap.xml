@@ -137,6 +137,11 @@
   </url>
   
   <url>
+    <loc>https://scrambletheduck.org/tags/website/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scrambletheduck.org/tags/radio/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
@@ -147,7 +152,22 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/website/</loc>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/TV/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -162,32 +182,12 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/TV/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
+    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
   <url>
     <loc>https://scrambletheduck.org/tags/parade/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -198,21 +198,6 @@
   
   <url>
     <loc>https://scrambletheduck.org/tags/NBC/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Easter/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/color/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/spring/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -233,6 +218,21 @@
   
   <url>
     <loc>https://scrambletheduck.org/tags/update/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Easter/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/color/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/spring/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -329,5 +329,10 @@
   <url>
     <loc>https://scrambletheduck.org/site.webmanifest</loc>
     <lastmod>2021-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/news/2021/03/16/scramble-the-ducks-winter-prediction-proved-accurate/</loc>
+    <lastmod>2021-03-16</lastmod>
   </url>
 </urlset>
