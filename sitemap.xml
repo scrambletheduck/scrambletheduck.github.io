@@ -137,17 +137,17 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/website/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/tags/radio/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
   <url>
     <loc>https://scrambletheduck.org/tags/WILI/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/website/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -172,11 +172,6 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/parade/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
@@ -188,6 +183,11 @@
   
   <url>
     <loc>https://scrambletheduck.org/tags/accuracy/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/parade/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -347,7 +347,7 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/news/2022/01/27/2022-1-24-scramble-the-duck-to-predict-spring-or-winter/</loc>
-    <lastmod>2022-01-27</lastmod>
+    <loc>https://scrambletheduck.org/news/2022/01/24/scramble-the-duck-to-predict-spring-or-winter/</loc>
+    <lastmod>2022-01-24</lastmod>
   </url>
 </urlset>
