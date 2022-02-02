@@ -127,42 +127,17 @@
   </url>
   
   <url>
+    <loc>https://scrambletheduck.org/tags/prediction/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scrambletheduck.org/tags/pages/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
   <url>
     <loc>https://scrambletheduck.org/tags/speeches/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/TV/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/parade/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/prediction/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -182,22 +157,47 @@
   </url>
   
   <url>
-    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/NBC/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scrambletheduck.org/tags/Better%20Connecticut%20Show/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
   <url>
+    <loc>https://scrambletheduck.org/tags/TV/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/WFSB/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/accuracy/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Better%20Connecticut/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/parade/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scrambletheduck.org/tags/wili/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Duck%20Day/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/NBC/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -213,6 +213,11 @@
   
   <url>
     <loc>https://scrambletheduck.org/tags/spring/</loc>
+    <lastmod>2020-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/tags/Scramble/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -233,11 +238,6 @@
   
   <url>
     <loc>https://scrambletheduck.org/tags/update/</loc>
-    <lastmod>2020-07-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrambletheduck.org/tags/Scramble/</loc>
     <lastmod>2020-07-26</lastmod>
   </url>
   
@@ -349,5 +349,20 @@
   <url>
     <loc>https://scrambletheduck.org/news/2022/01/24/scramble-the-duck-to-predict-spring-or-winter/</loc>
     <lastmod>2022-01-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/speeches/2022/opening/</loc>
+    <lastmod>2022-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/speeches/2022/announcement/</loc>
+    <lastmod>2022-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scrambletheduck.org/news/2022/02/02/scramble-forecasts-six-more-weeks/</loc>
+    <lastmod>2022-02-02</lastmod>
   </url>
 </urlset>
